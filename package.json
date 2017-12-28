@@ -1,0 +1,25 @@
+{
+  "name": "cordova-bluebird-api",
+  "version": "0.0.1",
+  "description": "cordova-bluebird-api",
+  "cordova": {
+    "id": "cordova-bluebird-api",
+    "platforms": [
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BlueFletch/cordova-bluebird-api.git"
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "author": "syk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BlueFletch/cordova-bluebird-api/issues"
+  },
+  "homepage": "https://github.com/BlueFletch/cordova-bluebird-api#readme"
+}
